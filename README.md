@@ -1,6 +1,6 @@
 # Job Tracker
 
-**Live Demo:** [https://job-tracker-professional-ezpi.vercel.app](https://job-tracker-professional-ezpi.vercel.app)
+**Live Demo:** [https://job-tracker-professional-ezpi.vercel.app](https://job-tracker-professional-ezpl.vercel.app/jobs)
 
 A professional React job-application tracker based on the same project structure:
 
